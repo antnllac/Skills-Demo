@@ -1,9 +1,10 @@
-import org.junit.Test;
 import static org.junit.Assert.*;
+import org.junit.Test;
 
 public class SkillsDemo1Test {
     @Test
-    public void addition(){
+    public void subtraction() {
         assertEquals(5, 10 - 5);
     }
+
 }

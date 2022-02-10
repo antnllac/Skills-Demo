@@ -1,5 +1,5 @@
 public class SkillsDemo1 {
-    public static int subtraction(int n, int m){
-        return n - m;
-    }
+    public static int subtract(int n, int m){
+    return n - m;
+}
 }
